@@ -1,7 +1,7 @@
 # laba13
-Задание:
-![image](https://user-images.githubusercontent.com/80285429/146574127-8b35eea6-426b-499d-b7b0-04109efdab63.png)
-![image](https://user-images.githubusercontent.com/80285429/146574156-5908246c-a42c-4e42-b948-e307f7467229.png)
+Задание:<br />
+![image](https://user-images.githubusercontent.com/80285429/146574127-8b35eea6-426b-499d-b7b0-04109efdab63.png)<br />
+![image](https://user-images.githubusercontent.com/80285429/146574156-5908246c-a42c-4e42-b948-e307f7467229.png)<br />
 # Тесты
 Файл со словами:
 ![image](https://user-images.githubusercontent.com/80285429/146574333-740c5c18-e0c3-430b-98db-4240c795c117.png)
